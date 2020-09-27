@@ -1,9 +1,9 @@
 ﻿{
     "database": {
-        "host": "localhost",
+        "host": "http://us-cdbr-east-02.cleardb.com/",
         "port": 3306,
-        "user": "root",
-        "password": "",
+        "user": "bd6fed5ec4565c",
+        "password": "59e2da92",
         "database": "test-react"
     },
     "secret": "THIS IS USED TO SIGN AND VERIFY JWT TOKENS, REPLACE IT WITH YOUR OWN SECRET, IT CAN BE ANY STRING"
