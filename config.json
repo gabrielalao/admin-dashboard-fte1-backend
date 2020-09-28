@@ -4,7 +4,7 @@
         "port": 3306,
         "user": "bd6fed5ec4565c",
         "password": "59e2da92",
-        "database": "heroku_cc40d8fbe150d1e"
+        "database": "heroku_cc40d8fbe150d1"
     },
     "secret": "THIS IS USED TO SIGN AND VERIFY JWT TOKENS, REPLACE IT WITH YOUR OWN SECRET, IT CAN BE ANY STRING"
 }
