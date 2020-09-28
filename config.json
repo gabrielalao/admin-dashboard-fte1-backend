@@ -3,8 +3,8 @@
         "host": "cherylaspencer.com",
         "port": 3306,
         "user": "dldrfwmy_gabby",
-        "password": "Moore006!",
-        "database": "dldrfwmy_test-react	"
+        "password": "A{qFnda=BYb4",
+        "database": "dldrfwmy_test-react"
     },
     "secret": "THIS IS USED TO SIGN AND VERIFY JWT TOKENS, REPLACE IT WITH YOUR OWN SECRET, IT CAN BE ANY STRING"
 }
