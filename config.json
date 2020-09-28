@@ -2,8 +2,8 @@
     "database": {
         "host": "74.220.219.165",
         "port": 3306,
-        "user": "dldrfwmy_root",
-        "password": "+Ifx{p6&M4a%",
+        "user": "dldrfwmy_gabby",
+        "password": "Moore006!",
         "database": "dldrfwmy_test-react"
     },
     "secret": "THIS IS USED TO SIGN AND VERIFY JWT TOKENS, REPLACE IT WITH YOUR OWN SECRET, IT CAN BE ANY STRING"
