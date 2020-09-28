@@ -1,6 +1,6 @@
 ﻿{
     "database": {
-        "host": "https://cfaffiliate360-adminpanel.herokuapp.com/",
+        "host": "74.220.219.165",
         "port": 3306,
         "user": "dldrfwmy_gabby",
         "password": "A{qFnda=BYb4",
